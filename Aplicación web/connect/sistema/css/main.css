@@ -1,0 +1,54 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+#boton-redondo{
+	border-radius: 100px 100px 100px 100px;
+    -moz-border-radius: 100px 100px 100px 100px;
+    -webkit-border-radius: 100px 100px 100px 100px;
+    border: 0px solid #000000;
+}
+#boton-redondo:hover{
+	background-color: #344146;
+}
+#contenedor{
+	width: 318px;
+	height: 140px;
+	float: none;
+}
+#contenedor a{
+	color: #FFFFFF;
+}
+#enlaces a{
+	color: #5c6bc0;
+}
+#enlaces a:hover{
+	color: #ec407a;
+}
+.waves-effect.waves-grey .waves-ripple {
+	background-color: #bdbdbd;
+}
+.card{
+	width: 370px;
+}
+.gris{
+	color: #bdbdbd;
+}
+.azul-marino{
+	color: #34495e;
+}
+#enlaces-admin a{
+	color: #34495e;
+}
+#enlaces-admin a:hover{
+	color: #ef5350;
+}
+.accion{
+	position: absolute;
+}
+.accion a{
+	color: #ef5350;
+}
+.busqueda{
+	background-color: #eeeeee;
+	width: 25em;
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="grey">#e0e0e0</color>
+    <color name="ripple">#FD98A2</color>
+    <color name="tertiary">#455561</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF3F80</color>
+
+    <!-- Color de fondo de pantalla -->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- Color de los puntos inactivos -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <!-- Color de los puntos activos -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+
+    <!-- Arreglo de todos los colores en uno -->
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+    <!-- MINI FAB -->
+    <color name="colorNormalMini">#00B0FF</color>
+    <color name="colorPressedMini">#40C4FF</color>
+    <color name="colorRippleMini">#E1F5FE</color>
+
+    <!-- BACKGROUND DETAIL -->
+    <color name="saludColor">#41AB97</color>
+    <color name="finanzasColor">#FEC246</color>
+    <color name="espiritualColor">#72C68B</color>
+    <color name="profesionalColor">#EC6B56</color>
+    <color name="materialColor">#462445</color>
+</resources>

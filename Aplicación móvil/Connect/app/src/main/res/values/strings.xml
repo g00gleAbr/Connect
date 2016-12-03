@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Connect</string>
+    <string name="title_activity">¡Bienvenido!</string>
+    <string name="next">Siguiente</string>
+    <string name="skip">Saltar</string>
+    <string name="start">Iniciar</string>
+
+    <string name="title_slide_1">¿Qué es?</string>
+    <string name="text_slide_1">Connect es una aplicación que te ayuda a optimizar tus necesidades.</string>
+
+    <string name="title_slide_2">Conéctalos</string>
+    <string name="text_slide_2">Conecta todos tus dispositivos a un sólo servicio. ¡Es muy fácil!</string>
+
+    <string name="title_slide_3">¿Cómo entro?</string>
+    <string name="text_slide_3">Con un sólo registro, puedes iniciar desde la web o tu móvil, tablet, etc.</string>
+
+    <string name="title_slide_4">Llévalo contigo</string>
+    <string name="text_slide_4">¿Estás de viaje o haciendo alguna otra cosa? ¡Con un clickn resualves todo!</string>
+    <string name="title_activity_activity_index">Connect</string>
+
+    <string name="navigation_drawer_open">Abrir barra de navegación</string>
+    <string name="navigation_drawer_close">Cerrar barra de navegación</string>
+
+    <string name="action_settings">Cerrar sesión</string>
+
+    <!-- Actividades -->
+    <string name="title_activity_update">Editar nota</string>
+    <string name="title_activity_detail">Detalles</string>
+    <string name="title_activity_insert">Insertar nueva nota</string>
+
+    <!-- Action Buttons -->
+    <string name="action_delete">Borrar</string>
+    <string name="action_discard">Descartar</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_done">Guardar</string>
+
+    <!-- Categorías -->
+    <string-array name="entradas_categoria">
+        <item>Escuela</item>
+        <item>Trabajo</item>
+    </string-array>
+
+    <!-- Prioridades -->
+    <string-array name="entradas_prioridad">
+        <item>Alta</item>
+        <item>Media</item>
+        <item>Baja</item>
+    </string-array>
+
+    <!-- Diálogos -->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_discard_msg">¿Descartar Cambios?</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_delete_msg">Se eliminará la nota</string>
+</resources>
